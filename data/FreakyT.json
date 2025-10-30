@@ -6,7 +6,13 @@
     "verifier": "Stretcho",
     "verification": "https://www.youtube.com/watch?v=kQByhKW2jYM",
     "percentToQualify": "100",
-    "time": "2:44.116",
+    "time": "5:33.975",
     "records": [
+        {
+            "user": "Yonabi",
+            "link": "https://www.youtube.com/watch?v=o926xNPnPAs",
+            "time": "2:44.116",
+            "hz": 60
+        }
     ]
 }
