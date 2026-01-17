@@ -1,0 +1,18 @@
+{
+    "id": 722,
+    "name": "100 Old Rooms",
+    "author": "Aiisuzu",
+    "creators": [],
+    "verifier": "Aiisuzu",
+    "verification": "https://www.youtube.com/watch?v=Fuun4iVI60g",
+    "percentToQualify": "100",
+    "time": "12:12.541",
+    "records": [
+                {
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=jDUxA-vblO0",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
